@@ -1,5 +1,5 @@
 ---
-title: Important notice for Office 365 email customers who have configured connectors
+title: 550 5.7.64 Relay Access Denied ATTR36
 description: Describes scenarios that requires you to take action before February 1, 2017 to prevent interruptions to mail flow.
 author: simonxjx
 audience: ITPro
@@ -12,7 +12,7 @@ appliesto:
 - Exchange Online
 ---
 
-# Important notice for Office 365 email customers who have configured connectors
+# 550 5.7.64 Relay Access Denied ATTR36
 
 ## Notice
 
